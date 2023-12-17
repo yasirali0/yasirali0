@@ -1,4 +1,4 @@
-### Hi there 👋
+### print("Hi there 👋")
 
 - I'm Yasir Ali. I'm from Pakistan but currently residing in South Korea for my Masters degree.
 

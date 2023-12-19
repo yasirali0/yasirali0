@@ -1,12 +1,12 @@
-                                                            Hello World 👋
-                                                            
-                                                        😃️ AI Researcher 😃️
-                                                            
-                                                PyTorch | Keras | TensorFlow | scikit-learn
-                           NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | sqlite3 | PyCUDA | threading
-                                      Visual Studio Code | Jupyter Notebook | Git | GitHub | Docker
-                                                         Ubuntu | Windows
-                                       Communication | Teamwork | Problem-Solving | Critical Thinking
+                                                          Hello World 👋
+                                                          
+                                                      😃️ AI Researcher 😃️
+                                                          
+                                              PyTorch | Keras | TensorFlow | scikit-learn
+                         NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | sqlite3 | PyCUDA | threading
+                                    Visual Studio Code | Jupyter Notebook | Git | GitHub | Docker
+                                                       Ubuntu | Windows
+                                     Communication | Teamwork | Problem-Solving | Critical Thinking
                                                                             
                                                                             
                                                                             

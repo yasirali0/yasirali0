@@ -1,6 +1,7 @@
-                                                    Hello World 👋
+                                                  Hello World 👋
+                                          Welcome to Yasir Ali's Profile
                                                     
-                                                😃️ AI Researcher 😃️
+                                          Graduate Researche Assistant
                                                     
                                         PyTorch | Keras | TensorFlow | scikit-learn
                    NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | sqlite3 | PyCUDA | threading

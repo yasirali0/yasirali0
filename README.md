@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Yasir+Ali;Python;Federated+Learning;Machine+Learning;Deep+Learning)](https://git.io/typing-svg)
  
 <!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D97CB&height=100&section=header"/-->
+---
 ### GitHub Stats
+---
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
@@ -17,8 +19,9 @@
   - Now, I mostly code in **Python** because it is more suitable for research and development in AI, machine learning, and deep learning.
 
 ---
-Research Experience
+### Research Experience
 ---
+
 - **Graduate Research Assistant** | March 2022 - Present | Information Security & Machine Learning Lab, Gachon University, South Korea
   - Research on Federated Learning
     - Developed a federated learning framework using Python, PyTorch, and threading

@@ -2,6 +2,11 @@
 
 My name is Yasir Ali. I'm from Pakistan but currently residing in South Korea for my Masters degree.
 
+## GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirali0&show_icons=true&theme=radical" alt="yasirali0" />
+</p>
+
 - 👀 I've been interested in programming since the very first time I took C++ course in my undergraduate degree.
   After that, I have written codes in other programming languages at some basic level, such as JavaScript (especially React framework), MATLAB, and C.
   Now, I mostly code in Python because it is more suitable for AI, machine learning, and deep learning.

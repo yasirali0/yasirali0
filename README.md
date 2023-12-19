@@ -4,9 +4,9 @@
 ---
 ### GitHub Stats
 ---
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
+![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/4-productive-time.svg)
 
 
 ---

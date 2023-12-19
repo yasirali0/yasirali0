@@ -21,9 +21,9 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" >
-  <img src="https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" >
-  <img src="https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" >
+  <img src="https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/dark/0-profile-details.svg" >
+  <img src="https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/dark/3-stats.svg" >
+  <img src="https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/dark/4-productive-time.svg" >
     
 </div>
 

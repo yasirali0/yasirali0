@@ -1,11 +1,32 @@
-# print("Hello World 👋")
+                                                            Hello World 👋
+                                                            
+                                                        😃️ AI Researcher 😃️
+                                                            
+                                                PyTorch | Keras | TensorFlow | scikit-learn
+                          NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | sqlite3 | PyCUDA | threading
+                                      Visual Studio Code | Jupyter Notebook | Git | GitHub | Docker
+                                                          Ubuntu | Windows
+                                      Communication | Teamwork | Problem-Solving | Critical Thinking
+                                                                            
+                                                                            
+                                                                            
 
-My name is Yasir Ali. I'm from Pakistan but currently residing in South Korea for my Masters degree.
+<div align="center" >
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
-## GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirali0&show_icons=true&theme=radical" alt="yasirali0" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=370&height=70&lines=Yasir+Ali;Python;Federated+Learning;Machine+Learning;Deep+Learning)](https://git.io/typing-svg)
+  
+</div>
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirali0&show_icons=true&theme=solarized" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirali0&show_icons=true&theme=solarized" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasirali0&show_icons=true&theme=solarized&utcOffset=8" > 
+    
+</div>
+
 
 - 👀 I've been interested in programming since the very first time I took C++ course in my undergraduate degree.
   After that, I have written codes in other programming languages at some basic level, such as JavaScript (especially React framework), MATLAB, and C.

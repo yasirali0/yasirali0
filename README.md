@@ -78,7 +78,3 @@
 - Let's connect on Linkedin: <a href="https://linkedin.com/in/yasir-ali-v2/" target="_blank">LinkedIn</a>
 - You can reach out to me at yasir.ali.v2.0@gmail.com
 
----
-😃 Fun fact
--  I am very good and fast at learning programming languages and tools, but not so much at learning natural languages. Nowadays, I'm trying to learn Korean.
-

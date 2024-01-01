@@ -10,23 +10,25 @@
 ![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/3-stats.svg)
 ![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/4-productive-time.svg)
 
-Check out my GitHub repositories:
+▶️ Check out my GitHub repositories:
 
 [![](https://img.shields.io/badge/My_Repositories-green?style=for-the-badge&logo=github&labelColor=gray)](https://github.com/yasirali0?tab=repositories)
 
 
 ---
-### ▶️ About Me
----
+<details open>
+<summary><h3>▶️ About Me</h3></summary>
+
 - 👋 I am a Graduate Research Assistant at [ISML Lab, Gachon University](https://ai-security.github.io/professor_main_e.htm), and doing my Masters degree in Computer Engineering at [Gachon University](https://www.gachon.ac.kr/kor/index.do).
 - 🔭 My area of research is federated learning, and my research topic is detection of poisoning attacks in federated learning.
 - 👀 I've been interested in programming since the very first time I took C++ course in my undergraduate degree.
   - After that, I have written codes in other programming languages at some basic level, such as JavaScript, MATLAB, and C.
   - Now, I mostly code in **Python** because it is more suitable for research and development in AI, machine learning, and deep learning.
+</details>
 
 ---
-### ▶️ Research Experience
----
+<details>
+<summary><h3>▶️ Research Experience</h3></summary>
 
 - **Graduate Research Assistant** | March 2022 - Present | Information Security & Machine Learning Lab, Gachon University, South Korea
   - Research on Federated Learning
@@ -49,11 +51,11 @@ Check out my GitHub repositories:
   - Contributed to the Landslide Monitoring and Alert System Project
   - Collected landslide videos to form a dataset for input into deep learning models
   - Segmented and annotated videos into pre-landslide, landslide, and post-landslide phases by utilizing a custom Python script
-
+</details>
 
 ---
-### ▶️ Tools & Skills
----
+<details>
+<summary><h3>▶️ Tools & Skills</h3></summary>
 
 - *Languages* 👉 Python | C/C++ | JavaScript
 
@@ -66,18 +68,21 @@ Check out my GitHub repositories:
 - *Operating Systems* 👉 Ubuntu | Windows
 
 - *Soft Skills* 👉 Communication | Teamwork | Problem-Solving | Critical Thinking
- 
+</details>
+
 ---
-### ▶️ Research Publications
----
+<details>
+<summary><h3>▶️ Research Publications</h3></summary>
+
 - M. A. Hafeez, **Y. Ali**, K. H. Han and S. O. Hwang, "GPU-Accelerated Deep Learning-Based Correlation Attack on Tor Networks," in IEEE Access, vol. 11, pp. 124139-124149, 2023, doi:10.1109/ACCESS.2023.3330208. (Impact Factor: 3.9)
   - Code is available <a href="https://github.com/yasirali0/fast_correlation_attack_on_tor/" target="_blank">here</a>.
 - Y. Ali, K. H. Han, et al. "An Optimal Two-Step Approach for Defense Against Poisoning Attacks in Federated Learning" *(under review)*
-
+</details>
 
 ---
-### 🔗 Contact
----
+<details open>
+<summary><h3>🔗 Contact</h3></summary>
+
 - Let's connect on Linkedin: <a href="https://linkedin.com/in/yasir-ali-v2/" target="_blank">LinkedIn</a>
 - You can reach out to me at yasir.ali.v2.0@gmail.com
-
+</details>

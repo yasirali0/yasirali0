@@ -6,9 +6,9 @@
 ---
 ![Profile views counter](https://komarev.com/ghpvc/?username=yasirali0-git&style=flat-square)
 
-![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/4-productive-time.svg)
+![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/2077/0-profile-details.svg)
+![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/2077/3-stats.svg)
+![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/2077/4-productive-time.svg)
 
 
 ## 👀 Check out my GitHub repositories:

@@ -10,8 +10,8 @@
 ![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/3-stats.svg)
 ![](https://raw.githubusercontent.com/yasirali0/yasirali0/main/profile-summary-card-output/solarized/4-productive-time.svg)
 
-▶️ Check out my GitHub repositories:
 
+## 👀 Check out my GitHub repositories:
 [![](https://img.shields.io/badge/My_Repositories-green?style=for-the-badge&logo=github&labelColor=gray)](https://github.com/yasirali0?tab=repositories)
 
 

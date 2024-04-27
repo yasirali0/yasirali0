@@ -23,10 +23,10 @@
 <details open>
 <summary><h3>▶️ About Me</h3></summary>
 
-- 👋 I am a Graduate Research Assistant at [ISML Lab, Gachon University](https://ai-security.github.io/professor_main_e.htm), and doing my Masters degree in Computer Engineering at [Gachon University](https://www.gachon.ac.kr/kor/index.do).
+- 👋 I did my Masters degree in Computer Engineering at [Gachon University](https://www.gachon.ac.kr/kor/index.do) and worked as a Graduate Research Assistant at [ISML Lab, Gachon University](https://ai-security.github.io/professor_main_e.htm).
 - 🔭 My area of research is federated learning, and my research topic is detection of poisoning attacks in federated learning.
 - 👀 I've been interested in programming since the very first time I took C++ course in my undergraduate degree.
-  - After that, I have written codes in other programming languages at some basic level, such as JavaScript, MATLAB, and C.
+  - I have programmed in various languages such as C++, C, JavaScript, and MATLAB, at a basic level.
   - Now, I mostly code in **Python** because it is more suitable for research and development in AI, machine learning, and deep learning.
 </details>
 
@@ -34,7 +34,7 @@
 <details>
 <summary><h3>▶️ Research Experience</h3></summary>
 
-- **Graduate Research Assistant** | March 2022 - Present | Information Security & Machine Learning Lab, Gachon University, South Korea
+- **Graduate Research Assistant** | March 2022 - February 2024 | Information Security & Machine Learning Lab, Gachon University, South Korea
   - Research on Federated Learning
     - Developed a federated learning framework using Python, PyTorch, and threading
     - Implemented and evaluated the performance of various deep learning models e.g., AlexNet, VGG16, and ResNet18 within my federated learning codebase
@@ -42,7 +42,6 @@
     - Integrated state-of-the-art poisoning attack defense methods into the codebase for benchmarking purposes
     - Proposed a novel defense method that outperformed the state-of-the-art in terms of poisoning attack detection accuracy
     - Authored a research article currently under review in an IEEE journal
-    - Currently surveying defense methods against poisoning attacks in asynchronous federated learning
  
   - Research on Tracing Attackers Over Overlay Networks
     - Conducted a thorough survey on deanonymization attacks targeting the Tor overlay network, with a specific focus on deep learning-based correlation attacks

@@ -23,11 +23,11 @@
 <details open>
 <summary><h3>▶️ About Me</h3></summary>
 
-- 👋 I did my Masters degree in Computer Engineering at [Gachon University](https://www.gachon.ac.kr/kor/index.do) and worked as a Graduate Research Assistant at [ISML Lab, Gachon University](https://ai-security.github.io/professor_main_e.htm).
+- 👋 I did my Masters degree in Computer Engineering at [Gachon University](https://www.gachon.ac.kr/kor/index.do) and worked as a Graduate Research Assistant at [ISML Lab](https://ai-security.github.io/professor_main_e.htm), Gachon University.
 - 🔭 My area of research is federated learning, and my research topic is detection of poisoning attacks in federated learning.
-- 👀 I've been interested in programming since the very first time I took C++ course in my undergraduate degree.
+- 💻 I've been interested in programming since the very first time I took C++ course in my undergraduate degree.
   - I have programmed in various languages such as C++, C, JavaScript, and MATLAB, at a basic level.
-  - Now, I mostly code in **Python** because it is more suitable for research and development in AI, machine learning, and deep learning.
+  - I am proficient in **Python** and use it for research and development in machine learning and deep learning.
 </details>
 
 ---

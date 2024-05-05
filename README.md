@@ -24,7 +24,9 @@
 <summary><h3>▶️ About Me</h3></summary>
 
 - 👋 I did my Masters degree in Computer Engineering at [Gachon University](https://www.gachon.ac.kr/kor/index.do) and worked as a Graduate Research Assistant at [ISML Lab](https://ai-security.github.io/professor_main_e.htm), Gachon University.
-- 🔭 My area of research is federated learning, and my research topic is detection of poisoning attacks in federated learning.
+- 🔭 My area of research in master's was federated learning, and my research topic was detection of poisoning attacks in federated learning.
+- 💻 Recently, I worked as an AI Developer intern at [HAMA Lab Co., Ltd](https://hamalab.io/) for two months
+  - My focus was on video recommendation systems where I performed tasks ranging from data analysis, deep learning-based model development and its dockerization up to Flask-based API development.
 - 💻 I've been interested in programming since the very first time I took C++ course in my undergraduate degree.
   - I have programmed in various languages such as C++, C, JavaScript, and MATLAB, at a basic level.
   - I am proficient in **Python** and use it for research and development in machine learning and deep learning.
@@ -32,41 +34,53 @@
 
 ---
 <details>
-<summary><h3>▶️ Research Experience</h3></summary>
+<summary><h3>▶️ Experience</h3></summary>
+
+- **AI Developer Intern** | 03 March 2024 - 30 April 2024 | HAMA Lab Co., Ltd., South Korea
+  - Video Recommendation System
+    - Performed data analysis on video and user data within the database to formulate the research objectives.
+    - Researched deep learning-based recommendation systems to select appropriate models and strategies tailored to our data.
+    - Implemented data and machine learning pipelines and developed training and inference APIs using the Flask package.
+    - Incorporated multi-threading strategy within the inference API to efficiently manage user requests and AI model inference simultaneously.
+    - Utilized Docker for containerizing the recommendation system, ensuring portability and scalability of the solution.
 
 - **Graduate Research Assistant** | March 2022 - February 2024 | Information Security & Machine Learning Lab, Gachon University, South Korea
   - Research on Federated Learning
+    - Conducted research in federated learning, focusing on the detection of poisoning attacks within the federated learning paradigm
     - Developed a federated learning framework using Python, PyTorch, and threading
-    - Implemented and evaluated the performance of various deep learning models e.g., AlexNet, VGG16, and ResNet18 within my federated learning codebase
-    - Implemented and analyzed the impact of poisoning attacks on the performance of federated learning
+    - Implemented deep learning models such as AlexNet, VGG16, and ResNet18 as the base models for the federated learning environment, and evaluated them on datasets such as MNIST, CIFAR-10, and CIFAR-100
+    - Simulated poisoning attacks and analyzed their impact on the accuracy of federated learning
     - Integrated state-of-the-art poisoning attack defense methods into the codebase for benchmarking purposes
     - Proposed a novel defense method that outperformed the state-of-the-art in terms of poisoning attack detection accuracy
-    - Authored a research article currently under review in an IEEE journal
+    - Authored a research article currently under review in IEEE Transactions for Computational Social Systems
  
   - Research on Tracing Attackers Over Overlay Networks
+    - Collaborated with a colleague on this research project aimed at reducing the execution time and memory consumption of deep learning-based correlation attacks against Tor networks
     - Conducted a thorough survey on deanonymization attacks targeting the Tor overlay network, with a specific focus on deep learning-based correlation attacks
-    - Performed an in-depth analysis of the prominent deep learning-based correlation attack, <a href="https://github.com/traffic-analysis/deepcoffea/" target="_blank">DeepCoFFEA</a> identifying critical issues such as high memory consumption and correlation time
-    - Successfully mitigated memory-related challenges, reducing consumption from 133GB to 70GB through effective memory deallocation and proactive garbage collection strategies
-    - Achieved a seven times reduction in correlation time by leveraging GPU processing, facilitated by PyCUDA library.
-    - Published a <a href="https://ieeexplore.ieee.org/abstract/document/10309127/" target="_blank">research article</a> in IEEE Access journal, outlining the findings and implemented solutions
+    - Performed an in-depth analysis of the prominent deep learning-based correlation attack, "DeepCoFFEA" identifying two critical issues, high memory consumption and execution time
+    - Successfully mitigated memory consumption challenge, reducing consumption from 133GB to 70GB through effective memory deallocation and proactive garbage collection strategies
+    - Achieved a seven times reduction in execution time by leveraging GPU processing, facilitated by PyCUDA library.
+    - Co-authored a <a href="https://ieeexplore.ieee.org/abstract/document/10309127/" target="_blank">research article</a> in IEEE Access journal, outlining the findings and implemented solutions
 
 - **Intern** | February 2021 - April 2021 | National Center of Artificial Intelligence at UET Peshawar, Pakistan
-  - Contributed to the Landslide Monitoring and Alert System Project
-  - Collected landslide videos to form a dataset for input into deep learning models
-  - Segmented and annotated videos into pre-landslide, landslide, and post-landslide phases by utilizing a custom Python script
+  - Landslide Monitoring and Alert System
+    - Collected landslide videos to form a dataset for input into deep learning models
+    - Segmented and annotated videos into pre-landslide, landslide, and post-landslide phases by utilizing a custom Python script
 </details>
 
 ---
 <details>
 <summary><h3>▶️ Tools & Skills</h3></summary>
 
-- *Languages* 👉 Python | C/C++ | JavaScript
+- *Languages* 👉 Python (Proficient) | C/C++ (Beginner)
 
 - *ML/DL Frameworks* 👉 PyTorch | Keras | TensorFlow | scikit-learn
 
 - *Python Libraries* 👉 NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | sqlite3 | PyCUDA | threading
 
-- *Development Tools* 👉 Visual Studio Code | Jupyter Notebook | Git | GitHub | Docker
+- *Development Tools* 👉 Visual Studio Code | Jupyter Notebook | Git | GitHub | GitLab | Docker | Flask
+
+- *AI Workflow Experience* 👉 Model development | Model optimization | Dockerization | API development
 
 - *Operating Systems* 👉 Ubuntu | Windows
 

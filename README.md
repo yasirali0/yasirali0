@@ -57,7 +57,6 @@
     - Simulated poisoning attacks and analyzed their impact on the accuracy of federated learning
     - Integrated state-of-the-art poisoning attack defense methods into the codebase for benchmarking purposes
     - Proposed a novel defense method that outperformed the state-of-the-art in terms of poisoning attack detection accuracy
-    - Authored a research article currently under review in IEEE Transactions for Computational Social Systems
  
   - Research on Tracing Attackers Over Overlay Networks
     - Collaborated with a colleague on this research project aimed at reducing the execution time and memory consumption of deep learning-based correlation attacks against Tor networks
@@ -81,7 +80,9 @@
 
 - *ML/DL Frameworks* 👉 PyTorch | Keras | TensorFlow | scikit-learn
 
-- *Python Libraries* 👉 NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | sqlite3 | PyCUDA | threading
+- *LLM Frameworks* 👉 LangChain | LangGraph
+
+- *Python Libraries* 👉 NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | sqlite3 | threading
 
 - *Development Tools* 👉 Visual Studio Code | Jupyter Notebook | Git | GitHub | GitLab | Docker | Flask
 

@@ -1,6 +1,6 @@
 <div align="center">
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Yasir+Ali;Python;Federated+Learning;Machine+Learning;Deep+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Yasir+Ali;Python;Machine+Learning;Deep+Learning;LLMs)
 
 </div>
  

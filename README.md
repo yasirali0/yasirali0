@@ -25,8 +25,10 @@
 
 - 👋 I did my Masters degree in Computer Engineering at [Gachon University](https://www.gachon.ac.kr/kor/index.do) and worked as a Graduate Research Assistant at [ISML Lab](https://ai-security.github.io/professor_main_e.htm), Gachon University.
 - 🔭 My area of research in master's was federated learning, and my research topic was detection of poisoning attacks in federated learning.
-- 💻 Recently, I worked as an AI Developer intern at [HAMA Lab Co., Ltd](https://hamalab.io/) for two months
+- 💼 Recently, I worked as an AI Developer intern at [HAMA Lab Co., Ltd.](https://hamalab.io/) for two months.
   - My focus was on video recommendation systems where I performed tasks ranging from data analysis, deep learning-based model development and its dockerization up to Flask-based API development.
+- 💼 Currently, I am working as an AI Developer at [A-Tech Solution CO., Ltd.](https://www.atechsolution.co.kr/wp/?lang=en).
+  - This role is related to the development of LLM-based applications.
 - 💻 I've been interested in programming since the very first time I took C++ course in my undergraduate degree.
   - I have programmed in various languages such as C++, C, JavaScript, and MATLAB, at a basic level.
   - I am proficient in **Python** and use it for research and development in machine learning and deep learning.
@@ -36,7 +38,10 @@
 <details>
 <summary><h3>▶️ Experience</h3></summary>
 
-- **AI Developer Intern** | 03 March 2024 - 30 April 2024 | HAMA Lab Co., Ltd., South Korea
+-**AI Developer** | July 2024 - present | A-Tech Solution Co., Ltd., South Korea
+  - Development of LLM-based Applications
+
+-  **AI Developer Intern** | 03 March 2024 - 30 April 2024 | HAMA Lab Co., Ltd., South Korea
   - Video Recommendation System
     - Performed data analysis on video and user data within the database to formulate the research objectives.
     - Researched deep learning-based recommendation systems to select appropriate models and strategies tailored to our data.

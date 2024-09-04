@@ -38,10 +38,10 @@
 <details>
 <summary><h3>▶️ Experience</h3></summary>
 
--**AI Developer** | July 2024 - present | A-Tech Solution Co., Ltd., South Korea
+- **AI Developer** | July 2024 - present | A-Tech Solution Co., Ltd., South Korea
   - Development of LLM-based Applications
 
--  **AI Developer Intern** | 03 March 2024 - 30 April 2024 | HAMA Lab Co., Ltd., South Korea
+- **AI Developer Intern** | 03 March 2024 - 30 April 2024 | HAMA Lab Co., Ltd., South Korea
   - Video Recommendation System
     - Performed data analysis on video and user data within the database to formulate the research objectives.
     - Researched deep learning-based recommendation systems to select appropriate models and strategies tailored to our data.

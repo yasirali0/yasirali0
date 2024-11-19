@@ -76,15 +76,15 @@
 <details>
 <summary><h3>▶️ Tools & Skills</h3></summary>
 
-- *Languages* 👉 Python (Proficient) | C/C++ (Beginner)
+- *Languages* 👉 Python (Proficient) | JavaScript/TypeScript (Intermediate) | C/C++ (Beginner)
 
 - *ML/DL Frameworks* 👉 PyTorch | Keras | TensorFlow | scikit-learn
 
 - *LLM Frameworks* 👉 LangChain | LangGraph
 
-- *Python Libraries* 👉 NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | sqlite3 | threading
+- *Python Libraries* 👉 NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | SQLAlchemy | threading
 
-- *Development Tools* 👉 Visual Studio Code | Jupyter Notebook | Git | GitHub | GitLab | Docker | Flask
+- *Development Tools* 👉 Visual Studio Code | Jupyter Notebook | Git | GitHub | GitLab | Docker | FastAPI | Pydantic
 
 - *AI Workflow Experience* 👉 Model development | Model optimization | Dockerization | API development
 

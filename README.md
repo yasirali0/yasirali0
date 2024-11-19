@@ -99,7 +99,7 @@
 
 - M. A. Hafeez, **Y. Ali**, K. H. Han and S. O. Hwang, "GPU-Accelerated Deep Learning-Based Correlation Attack on Tor Networks," in IEEE Access, vol. 11, pp. 124139-124149, 2023, doi:10.1109/ACCESS.2023.3330208. (Impact Factor: 3.9)
   - Code is available <a href="https://github.com/yasirali0/fast_correlation_attack_on_tor/" target="_blank">here</a>.
-- Y. Ali, K. H. Han, et al. "An Optimal Two-Step Approach for Defense Against Poisoning Attacks in Federated Learning" *(under review)*
+<!--- Y. Ali, K. H. Han, et al. "An Optimal Two-Step Approach for Defense Against Poisoning Attacks in Federated Learning" *(under review)*-->
 </details>
 
 ---

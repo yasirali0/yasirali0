@@ -23,7 +23,7 @@
 <details open>
 <summary><h3>▶️ About Me</h3></summary>
 
-- 💼 Currently, I am working as an AI Developer at [A-Tech Solution Co., Ltd.](https://www.atechsolution.co.kr/wp/?lang=en).
+- 💼 Currently, I am working as an LLM Engineer at [A-Tech Solution Co., Ltd.](https://www.atechsolution.co.kr/wp/?lang=en).
   - This role is related to the development of LLM-based applications.
 - 💼 Previously, I worked as an AI Developer intern at [HAMA Lab Co., Ltd.](https://hamalab.io/) for two months.
   - My focus was on video recommendation systems where I performed tasks ranging from data analysis, deep learning-based model development and its dockerization up to Flask-based API development.
